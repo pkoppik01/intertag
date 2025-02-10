@@ -1,0 +1,2 @@
+query user for aa seq or id
+retrieve msa
